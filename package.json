@@ -1,0 +1,28 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "Data structure and algorithms with google and leetcode algorithms",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --config jest.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whalewalker/javascript-dsa.git"
+  },
+  "author": "Whalewalker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whalewalker/javascript-dsa/issues"
+  },
+  "homepage": "https://github.com/whalewalker/javascript-dsa#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.15.8",
+    "babel-jest": "^27.2.4",
+    "babel-polyfill": "^6.26.0",
+    "jest": "^27.2.4"
+  }
+}
